@@ -1,0 +1,13 @@
+package model.constant;
+
+public enum CITY_ID {
+	NEW_YORK,
+	BOSTON,
+	DETROIT,
+	KANSAS_CITY,
+	CINCINNATI,
+	MEMPHIS,
+	PHILADELPHIA,
+	CHICAGO,
+	MAX_CITY_ID
+}
